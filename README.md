@@ -1,6 +1,6 @@
 <h3><b>🚀 Aspiring Software Engineer | Hackathon Enthusiast | Problem Solver</b></h3>
 
-<p>Hi! I'm Priyanshi, a passionate Computer Science undergrad from Government Engineering College Bikaner. I love building things that solve real problems — from AI-based accessibility tools to productivity apps for students. My journey blends Python, Java, and Web technologies, and I’m currently exploring full-stack development with a purpose.</p>
+<p>Hi! I'm Priyanshi, a passionate Computer Science undergrad from Government Engineering College Bikaner. I love building things that solve real problems — from AI-based accessibility tools to productivity apps for students. My journey blends Python and Web technologies, and I’m currently exploring full-stack development with a purpose.</p>
 
 # 💫 About Me:
 💫 About Me:<br>💻 CSE student, Figuring it out as I go<br>🌱 I’m currently learning Problem solving through code<br>🔭 I’m currently working on StudyMate - A platform that has all student essentials in one place.<br>🦹🏻‍♀️ Passionate about Books and Creating User Friendly Designs<br>💬 Ask me about My latest projects, good books, or CS resources
