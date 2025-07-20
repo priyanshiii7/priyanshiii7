@@ -1,9 +1,9 @@
-<h3><b>🚀 Aspiring Software Engineer | Hackathon Enthusiast | Problem Solver</b></h3>
-
-<p>Hi! I'm Priyanshi, a passionate Computer Science undergrad from Government Engineering College Bikaner. I love building things that solve real problems — from AI-based accessibility tools to productivity apps for students. My journey blends Python and Web technologies, and I’m currently exploring full-stack development with a purpose.</p>
-
 # 💫 About Me:
 💫 About Me:<br>💻 CSE student, Figuring it out as I go<br>🌱 I’m currently learning Problem solving through code<br>🔭 I’m currently working on StudyMate - A platform that has all student essentials in one place.<br>🦹🏻‍♀️ Passionate about Books and Creating User Friendly Designs<br>💬 Ask me about My latest projects, good books, or CS resources
+
+---
+Hi there! 👋 I'm Priyanshi Rathore — a curious and driven student developer passionate about solving real-world problems through tech. From building AI-powered sign language recognition systems to designing full-fledged productivity platforms for students, I enjoy blending creativity with code. I actively contribute to open source through programs like GSSoC and SSOC, and I’m always exploring new technologies across frontend, backend, and ML. Currently, I’m sharpening my skills for SDE roles while collaborating on impactful projects that make tech more inclusive and accessible. Let’s build something meaningful together! 💻✨
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyanshi-rathore-11b072217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshirathore57@gmail.com) 
