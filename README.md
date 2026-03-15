@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Priyanshi Rathore, and I'm a final-year Computer Science student from Bikaner, India — passionate about <br>making AI systems that are not just powerful, but explainable and trustworthy.</h2>
+<h2 align="left">Hi 👋! My name is Priyanshi Rathore, and I'm a final-year Computer Science student from Bikaner, India — passionate about building AI systems that are not just powerful but also explainable and trustworthy.</h2>
 
 ###
 
