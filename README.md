@@ -1,80 +1,49 @@
-<h2 align="left">Hi 👋! My name is Priyanshi Rathore, and I'm a final-year Computer Science student from Bikaner, India — passionate about building AI systems that are not just powerful but also explainable and trustworthy.</h2>
+# Priyanshi Rathore
 
-###
+Backend & distributed systems engineer. Final-year CS student at GEC Bikaner, graduating June 2026.
 
-<p align="left">Hi, I'm Priyanshi Rathore 👋<br><br>I'm a final-year Computer Science student from Bikaner, India — passionate about <br>making AI systems that are not just powerful, but explainable and trustworthy.<br><br>🔬 My research focuses on <b>Explainable AI in healthcare</b> — I have a paper submitted <br>to IEEE CBMS 2025 on transparent deep learning for clinical diagnosis, and another <br>heading to Springer LNNS (ComSIA 2026) on multimodal text detection in medical images.<br><br>🛠️ On the engineering side, I build with <b>Python, FastAPI, PyTorch, and OpenCV</b> — <br>from real-time ML pipelines to backend systems that actually ship.<br><br>🌱 I'm currently deepening my work in XAI and computer vision while looking for <br><b>AI/ML engineering or research roles</b> where I can contribute from day one.<br><br>📬 Open to work — graduating June 2026. Let's connect!</p>
+Currently building production-grade systems at [Neologicx](https://neologicx.com) — fault-tolerant distributed architecture serving 5,000+ concurrent users. Previously at Tweak Softwares.
 
-###
+Two research papers accepted at IEEE CBMS 2026 and Springer LNNS (ComSIA 2026).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="priyanshirathore57@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshi-rathore-11b072217/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/rpriyanshi048" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31351101/priyanshi-rathore" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshiii7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshiii7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiii7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshiii7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Open to backend/full-stack engineering roles.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyanshiii7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## What I work with
+
+**Backend** — Python, FastAPI, async I/O, RESTful APIs, microservices, event-driven architecture  
+**Databases** — PostgreSQL, MongoDB, MySQL, Redis, query optimisation  
+**Cloud & DevOps** — AWS (EC2, S3), Docker, CI/CD, Git  
+**ML (research)** — PyTorch, Scikit-Learn, Grad-CAM, Pandas, NumPy  
+
+---
+
+## Projects
+
+### [DataPulse](https://github.com/priyanshiii7/datapulse) — Distributed Pipeline Health Monitor
+Scalable monitoring platform with Celery async workers handling 50+ concurrent health checks at sub-100ms P99 latency. Two-tier Redis + MongoDB architecture achieves 95% cache hit rate, reducing DB load by 80%.  
+`Python` `FastAPI` `MongoDB` `Redis` `Celery` `Docker`
+
+### [StudyMate AI](https://github.com/priyanshiii7/studymate) — AI Student Assistant · [Live](https://your-live-link.railway.app)
+Full-stack web app with Flask backend, PostgreSQL, session auth, and Gemini API integration. Deployed on Railway with full migration pipeline.  
+`Flask` `PostgreSQL` `Gemini API` `Railway`
+
+---
+
+## Research
+
+- **Explainable Deep Learning for Clinical Decision Support** — IEEE CBMS 2026  
+- **Multimodal Text Detection in Medical Images** — ComSIA 2026, Springer LNNS  
+
+---
+
+## Currently
+
+- Finishing my internship at Neologicx (ends Oct 2025)
+- Building my portfolio site
+- Open to backend SWE roles — India or Europe (visa sponsorship)
+
+---
+
+[priyanshirathore57@gmail.com](mailto:priyanshirathore57@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priyanshi-rathore-11b072217/) · [LeetCode](https://leetcode.com/priyanshiii7) · [HackerRank](https://www.hackerrank.com/profile/rpriyanshi048)
