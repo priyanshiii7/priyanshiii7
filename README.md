@@ -26,7 +26,7 @@ Scalable monitoring platform with Celery async workers handling 50+ concurrent h
 `Python` `FastAPI` `MongoDB` `Redis` `Celery` `Docker`
 
 ### [StudyMate AI](https://github.com/priyanshiii7/studymate) — AI Student Assistant · [Live](https://studymate-v6yz.onrender.com/)
-Full-stack web app with Flask backend, PostgreSQL, session auth, and Gemini API integration. Deployed on the render with full migration pipeline.  
+Full-stack web app with Flask backend, PostgreSQL, session auth, and Gemini API integration. Deployed on the render with a full migration pipeline.  
 `Flask` `PostgreSQL` `Gemini API` `Render`
 
 ---
@@ -39,10 +39,8 @@ Developed a multimodal pipeline integrating OCR and scene-text detection for str
 
 ---
 
-- **Explainable Deep Learning for Clinical Decision Support** — IEEE CBMS 2026  
-- **Multimodal Text Detection in Medical Images** — ComSIA 2026, Springer LNNS  
+· [priyanshirathore57@gmail.com](mailto:priyanshirathore57@gmail.com) 
+· [LinkedIn](https://www.linkedin.com/in/priyanshi-rathore-11b072217/) 
+· [LeetCode](https://leetcode.com/priyanshiii7) 
+· [HackerRank](https://www.hackerrank.com/profile/rpriyanshi048)
 
-
----
-
-[priyanshirathore57@gmail.com](mailto:priyanshirathore57@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priyanshi-rathore-11b072217/) · [LeetCode](https://leetcode.com/priyanshiii7) · [HackerRank](https://www.hackerrank.com/profile/rpriyanshi048)
