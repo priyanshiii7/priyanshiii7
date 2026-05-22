@@ -2,7 +2,7 @@
 
 Backend & distributed systems engineer. Final-year CS student at GEC Bikaner, graduating June 2026.
 
-Previously built production-grade systems at [Neologicx](https://neologicx.com) — fault-tolerant distributed architecture serving 5,000+ concurrent users. Previously at Tweak Softwares.
+Previously built production-grade systems at [Neologicx] — fault-tolerant distributed architecture serving 5,000+ concurrent users. Previously at Tweak Softwares.
 
 Two research papers were submitted to IEEE CBMS 2026 and Springer LNNS (ComSIA 2026).
 
@@ -25,13 +25,19 @@ Open to backend/full-stack engineering roles.
 Scalable monitoring platform with Celery async workers handling 50+ concurrent health checks at sub-100ms P99 latency. Two-tier Redis + MongoDB architecture achieves 95% cache hit rate, reducing DB load by 80%.  
 `Python` `FastAPI` `MongoDB` `Redis` `Celery` `Docker`
 
-### [StudyMate AI](https://github.com/priyanshiii7/studymate) — AI Student Assistant · [Live]([https://your-live-link.railway.app](https://studymate-v6yz.onrender.com/)
+### [StudyMate AI](https://github.com/priyanshiii7/studymate) — AI Student Assistant · [Live](https://studymate-v6yz.onrender.com/)
 Full-stack web app with Flask backend, PostgreSQL, session auth, and Gemini API integration. Deployed on the render with full migration pipeline.  
 `Flask` `PostgreSQL` `Gemini API` `Render`
 
 ---
 
-## Research
+## Research-Submissions
+1. Explainable Deep Learning for Clinical Decision Support:  IEEE CBMS 2026
+Proposed an explainable CNN-based framework for real-time ICU risk stratification, combining SHAP-based feature attribution with clinical decision logic to improve interpretability in high-stakes medical settings.
+2. Multimodal Text Detection in Medical Images:  ComSIA 2026, Springer LNNS
+Developed a multimodal pipeline integrating OCR and scene-text detection for structured extraction from heterogeneous medical imaging reports, enabling downstream NLP analysis
+
+---
 
 - **Explainable Deep Learning for Clinical Decision Support** — IEEE CBMS 2026  
 - **Multimodal Text Detection in Medical Images** — ComSIA 2026, Springer LNNS  
