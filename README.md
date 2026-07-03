@@ -1,46 +1,29 @@
-# Priyanshi Rathore
+<h1 align="center">Hi 👋, I'm Priyanshi Rathore</h1>
+<h3 align="center">Backend & distributed systems engineer. Final-year CS student at GEC Bikaner, graduating June 2026.</h3>
 
-Backend & distributed systems engineer. Final-year CS student at GEC Bikaner, graduating June 2026.
+<h4>ABOUT ME</h4>
+- 🔭 I’m currently working on - [IoT Patient Monitor: Real-time simulated data processing streams with moving averages.](https://github.com/priyanshiii7/healthcare-monitoring)
 
-Previously built production-grade systems at [Neologicx] — fault-tolerant distributed architecture serving 5,000+ concurrent users. Previously at Tweak Softwares.
+- 🌱 I’m currently learning **Machine Learning algorithms**
 
-Two research papers were submitted to IEEE CBMS 2026 and Springer LNNS (ComSIA 2026).
+- 👯 Previously built (Group Project) - [Fault-tolerant distributed architecture to serve 3,000+ concurrent users](https://github.com/harshiiika/Syn-2)
 
-Open to backend/full-stack engineering roles.
+- 🤝 I've also submitted - **Two research papers were submitted to IEEE CBMS 2026 and Springer LNNS (ComSIA 2026).**
 
----
+- 👨‍💻 I'm Open to - [Open to backend/full-stack engineering roles.](Open to backend/full-stack engineering roles.)
 
-## What I work with
+- 💬 Ask me about **Books, my favourite research works, the no. of hours I slept today.**
 
-**Backend** — Python, FastAPI, async I/O, RESTful APIs, microservices, event-driven architecture  
-**Databases** — PostgreSQL, MongoDB, MySQL, Redis, query optimisation  
-**Cloud & DevOps** — AWS (EC2, S3), Docker, CI/CD, Git  
-**ML (research)** — PyTorch, Scikit-Learn, Grad-CAM, Pandas, NumPy  
+- 📫 How to reach me: **priyanshirathore57@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/priyanshi-rathore-11b072217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshi-rathore-11b072217" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rpriyanshi048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rpriyanshi048" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshiii7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshiii7" height="30" width="40" /></a>
+</p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### [DataPulse](https://github.com/priyanshiii7/datapulse) — Distributed Pipeline Health Monitor
-Scalable monitoring platform with Celery async workers handling 50+ concurrent health checks at sub-100ms P99 latency. Two-tier Redis + MongoDB architecture achieves 95% cache hit rate, reducing DB load by 80%.  
-`Python` `FastAPI` `MongoDB` `Redis` `Celery` `Docker`
-
-### [StudyMate AI](https://github.com/priyanshiii7/studymate) — AI Student Assistant · [Live](https://studymate-v6yz.onrender.com/)
-Full-stack web app with Flask backend, PostgreSQL, session auth, and Gemini API integration. Deployed on the render with a full migration pipeline.  
-`Flask` `PostgreSQL` `Gemini API` `Render`
-
----
-
-## Research-Submissions
-1. Explainable Deep Learning for Clinical Decision Support:  IEEE CBMS 2026
-Proposed an explainable CNN-based framework for real-time ICU risk stratification, combining SHAP-based feature attribution with clinical decision logic to improve interpretability in high-stakes medical settings.
-2. Multimodal Text Detection in Medical Images:  ComSIA 2026, Springer LNNS
-Developed a multimodal pipeline integrating OCR and scene-text detection for structured extraction from heterogeneous medical imaging reports, enabling downstream NLP analysis
-
----
-
-· [priyanshirathore57@gmail.com](mailto:priyanshirathore57@gmail.com) 
-· [LinkedIn](https://www.linkedin.com/in/priyanshi-rathore-11b072217/) 
-· [LeetCode](https://leetcode.com/priyanshiii7) 
-· [HackerRank](https://www.hackerrank.com/profile/rpriyanshi048)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshiii7&" alt="priyanshiii7" /></p>
